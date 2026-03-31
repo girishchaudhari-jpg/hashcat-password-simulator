@@ -1,17 +1,4 @@
 #!/usr/bin/env python3
-"""
-=============================================================
-  Hashcat Password Security Simulator
-  NIS IA#2 - TY B.Tech | Jan-Apr 2026
-  Team: Gauri Deshmukh (1601023124)
-         Girish Chaudhari (16010123125)
-         Gurkaran Singh Ahuja (16010123129)
-=============================================================
-
-This tool simulates password cracking techniques similar to
-Hashcat to demonstrate password strength analysis in a
-controlled, educational environment.
-"""
 
 import hashlib
 import hmac
